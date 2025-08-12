@@ -49,3 +49,40 @@ We’re open to partnerships, consulting, and joint development opportunities. W
 ---
 
 📬 Reach out via [LinkedIn](https://www.linkedin.com/in/mathews-joseph-rmdynamic) or GitHub Issues to start a conversation.
+
+RM-Dynamic-Automation/
+│
+├── README.md                  # Company overview and capabilities
+├── LICENSE                    # Optional: MIT or custom license
+├── .gitignore                 # Ignore build files, binaries, etc.
+│
+├── docs/                      # 📄 Client-facing documentation
+│   ├── Company-Profile.pdf    # Overview of RM Dynamic
+│   ├── Project-Proposals/     # Templates for client proposals
+│   └── Case-Studies/          # Success stories and technical briefs
+│
+├── plc-hmi/                   # ⚙️ PLC & HMI templates
+│   ├── siemens-tia/           # Siemens S7-1200 projects
+│   ├── fuji-na0pa/            # Fuji NA0PA32T-34C logic
+│   ├── omron-cx/              # Omron CX-Programmer files
+│   └── hmi-screens/           # Monitouch & Delta HMI layouts
+│
+├── scada/                     # 💻 SCADA software projects
+│   ├── desktop-scada/         # .NET-based desktop SCADA apps
+│   ├── web-scada/             # Web-based SCADA (Node.js, Python, etc.)
+│   └── assets/                # Icons, UI mockups, sample data
+│
+├── aoi-machines/              # 🧠 AOI machine development
+│   ├── vision-algorithms/     # Image processing scripts (OpenCV, etc.)
+│   ├── hardware-layouts/      # Camera, lighting, conveyor setup
+│   └── integration/           # PLC/SCADA integration logic
+│
+├── shared-libraries/          # 🔌 Reusable code modules
+│   ├── modbus-drivers/        # RS-485/Modbus communication
+│   ├── encoder-utils/         # Motor encoder logic
+│   └── pneumatic-control/     # Valve and actuator control modules
+│
+└── media/                     # 📷 Images and videos
+    ├── wiring-gallery/        # Panel wiring photos
+    ├── machine-demos/         # Operation videos
+    └── branding/              # Logos, banners, LinkedIn visuals
